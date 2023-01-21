@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuvaraj
 - 👀 I’m interested in coding, web designing, app developing,...
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning react js.....!!!
 - 📫 How to reach me mail: yuvarajsakthi003@gmail.com, whatsapp: 9944564448
 
 <!---
